@@ -1,0 +1,21 @@
+{
+    "name": "shanitp/yii2-jquery-timepicker",
+    "description": "A javascript timepicker plugin for jQuery inspired by Google Calendar.",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shani t p",
+            "email": "mailme.shanitp@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "shani\\jquerytimepicker\\": ""
+        }
+    }
+}
